@@ -9,7 +9,7 @@
                 <div class="container flex flex-wrap items-center justify-between mx-auto">
                     <a href="https://9Aniplay.vercel.app/" class="flex items-center">
                         <img src="https://d4.alternativeto.net/qOUfLCyFQ-70alqi28JbEZrmi9oNnWmaqmmND0fj9m8/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy85YW5pbWVfMTA3NTM5LnBuZw.png" class="h-6 mr-3 sm:h-9" alt="9Aniplay Logo" />
-                        <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">9Aniplay</span>
+                        <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Anime</span>
                     </a>
                 </div>
                 <div class="hidden w-full md:block md:w-auto" id="navbar-default">
